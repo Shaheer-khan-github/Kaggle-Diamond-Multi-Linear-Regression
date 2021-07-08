@@ -18,3 +18,6 @@ Sheets in the file is distributed in the following manner:
 ### g. Scatter plots of Price with carat, X-Length, Y-Length, Z-Length.
 
 ### h. Applied Linest Function on the Data. Linest Function is similar to linear regression but gives dynamic results.
+
+
+#### Note: Excel file is used as a tool for whole analysis.
