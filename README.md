@@ -20,4 +20,5 @@ Sheets in the file is distributed in the following manner:
 ### h. Applied Linest Function on the Data. Linest Function is similar to linear regression but gives dynamic results.
 
 
-#### Note: Excel file is used as a tool for whole analysis.
+
+#### Note: Excel file is used as a tool for the whole analysis.
