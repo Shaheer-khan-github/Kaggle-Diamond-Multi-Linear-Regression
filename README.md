@@ -7,9 +7,9 @@ Sheets in the file is distributed in the following manner:
 
 ### b. Data Profiling (Total count, Median, Mean, Min, Max)
 
-### c. Data imputed with mean and median on the appropriate positions. Also checked the typos and write in legitimate manner.
+### c. Data imputed with mean and median on the appropriate positions. Also checked the typos and wrote in a legitimate manner.
 
-### d. Conversion of categorical Data (Clarity, Color and Cut). These are converted into ordinal values. 
+### d. Conversion of categorical Data (Clarity, Color and Cut). These were converted into ordinal values. 
 
 ### e. Correlation among the attributes.
 
